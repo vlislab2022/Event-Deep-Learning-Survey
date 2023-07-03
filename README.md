@@ -13,9 +13,6 @@
   </p>
 </p>
 
-## DDL Time:
-
-2023-01-15
 
 <h2>Table of contents</h2>
 
