@@ -187,6 +187,15 @@
 
 | Publication | Title                                                                                                                               | Highlight |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| AAAI 2023   | Self-Supervised Joint Dynamic Scene Reconstruction and Optical Flow Estimation for Spiking Camera                                   |           |
+| ICRA 2023   | Adaptive-spikenet: event-based optical flow estimation using spiking neural networks with learnable neuronal dynamics               |           |
+| ICRA 2023   | Improved Event-Based Dense Depth Estimation via Optical Flow Compensation                                                           |           |
+| ICASSP 2023 | Spike-Based Optical Flow Estimation Via Contrastive Learning                                                                        |           |
+| CVPR 2023   | Live Demonstration: ANN vs SNN vs Hybrid Architectures for Event-Based Real-Time Gesture Recognition and Optical Flow Estimation    |           |
+| CVPR 2023   | Neuromorphic Optical Flow and Real-time Implementation with Event Cameras                                                           |           |
+| CVPR 2023   | HUGNet: Hemi-Spherical Update Graph Neural Network applied to low-latency event-based optical flow                                  |           |
+| AAAI 2022   | Spatio-temporal recurrent networks for event-based optical flow estimation                                                          |           |
+| ECCV 2022   | Secrets of event-based optical flow                                                                                                 |           |
 | CVPR 2021   | Spike Timing-Based Unsupervised Learning of Orientation, Disparity, and Motion Representations in a Spiking Neural Network          |           |
 | Arxiv 2021  | Formulating Event-based Image Reconstruction as a Linear Inverse Problem using Optical Flow                                         |           |
 | ECCV 2020   | Jointly learning visual motion and confidence from local patches in event cameras                                                   |           |
