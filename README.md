@@ -276,6 +276,7 @@
 ## 2.5 Segmentation
 | Publication | Title                                                                                                                          | Highlight |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| Arxiv 2024  | Segment Any Events via Weighted Adaptation of Pivotal Tokens                                                                       |            |
 | CVPRW 2019  | EV-SegNet: Semantic Segmentation for Event-Based Cameras                                                                       |            |
 | ICDSP 2021  | VESS: Variable Event Stream Structure for Event-based Instance Segmentation Benchmark                                          |
 | IROS 2021   | ISSAFE: Improving Semantic Segmentation in Accidents by Fusing Event-based Data                                                |            |
