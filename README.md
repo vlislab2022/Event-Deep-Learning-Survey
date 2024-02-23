@@ -152,7 +152,7 @@
 ## 2.1 Image / Video Reconstruction
 | Publication | Title                                                                                                                                              | Highlight |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| CVPR 2021   | mage Reconstruction From Neuromorphic Event Cameras Using Laplacian-Prediction and Poisson Integration With Spiking and Artificial Neural Networks |           |
+| CVPR 2021   | Image Reconstruction From Neuromorphic Event Cameras Using Laplacian-Prediction and Poisson Integration With Spiking and Artificial Neural Networks |           |
 | CVPR 2021   | Event-Based Synthetic Aperture Imaging With a Hybrid Network                                                                                       |           |
 | CVPR 2021   | Learning To Reconstruct High Speed and High Dynamic Range Videos From Events                                                                       |           |
 | CVPR 2021   | Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy                                 |           |
