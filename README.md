@@ -178,6 +178,7 @@
 | CVPR 2021           | Turning Frequency to Resolution: Video Super-Resolution via Event Camera                                                         | Video SR + RGB                               |
 | CVPR 2020           | Learning to Super Resolve Intensity Images from Events                                                                           |                                              |
 | CVPR 2020           | EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning | EventSR; End2end; Adversarial learning + RGB |
+| CVPR 2023           | Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution                                 |                                     |
 | TAPMI 2020          | E2SRI: Learning to Super-Resolve Intensity Images from Events                                                                    | SR-Net; RCNN + RGB                           |
 | Neurocomputing 2019 | Super-resolution of spatiotemporal event-stream image                                                                            |                                              |
 
@@ -307,6 +308,8 @@
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | CVPR 2020   | EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning | EventSR; End2end; Adversarial learning |
 | TAPMI 2020  | E2SRI: Learning to Super-Resolve Intensity Images from Events                                                                    | SR-Net; RCNN                           |
+| CVPR 2023           | Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution                      |                                     |
+
 
 
 ## 3.2 Event Guided Image / Video Deblurring
@@ -336,6 +339,7 @@
 | CVPR 2021   | Learning to Reconstruct High Speed and High Dynamic Range Videos from Events                                                     | RCNN; Temporal consistency |
 | CVPR 2020   | Neuromorphic Camera Guided High Dynamic Range Imaging                                                                            |                            |
 
+
 ### (1) Low Light
 | Publication | Title                                   | Highlight |
 | ----------- | --------------------------------------- | --------- |
@@ -362,6 +366,9 @@
 | CVPR 2021   | Time Lens: Event-based Video Frame Interpolation                                                    | First Work; Dataset       |
 | CVPR 2021   | EFI-Net: Video Frame Interpolation from Fusion of Events and Frames                                 | Dataset; Open Dataset     |
 | ECCV 2020   | Learning Event-Driven Video Deblurring and Interpolation                                            | Deblurring; Interpolation |
+| Arxiv 2023 | Self-supervised Learning of Event-guided Video Frame Interpolation for Rolling Shutter Frames| |
+| CVPR 2023 | Event-Based Blurry Frame Interpolation Under Blind Exposure |
+| IROS 2023 | Revisiting Event-Based Video Frame Interpolation | |
 | ICCV-W 2019 | Event-driven Video Frame Synthesis                                                                  |                           |
 
 ## 3.6 Depth estimation
